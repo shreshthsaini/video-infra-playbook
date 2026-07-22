@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "project": "VSAO",
+  "cluster": "Lonestar6",
+  "window_end": "2026-07-19T14:42:27-05:00",
+  "window_seconds": 300,
+  "active_threshold_percent": 5.0,
+  "allocated_nodes": 18,
+  "allocated_gpus": 47,
+  "telemetry_hosts": 18,
+  "telemetry_samples": 470,
+  "active_sample_fraction": 0.879,
+  "mean_gpu_utilization_percent": 86.51,
+  "mean_memory_fraction": 0.707,
+  "source": "$SCRATCH/<project>/telemetry",
+  "command": "python bin/gpu_telemetry_summary.py --window-seconds 300 --summary-only",
+  "notes": "The window follows duplicate-task removal, packed-spool refill, and the two-node gpu-a100-dev renewal. Scorer and trainer phase boundaries remain represented as inactive samples."
+}

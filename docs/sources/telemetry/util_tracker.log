@@ -1,0 +1,589 @@
+[2026-07-17 14:03:23] util=48% (13/27 GPUs) free_idle=3 pending=5
+[2026-07-17 14:04:52] util=62% (17/27 GPUs) free_idle=4 pending=4
+[2026-07-17 14:05:23] util=66% (18/27 GPUs) free_idle=4 pending=4
+[2026-07-17 14:17:34] util=37% (10/27 GPUs) free_idle=4 pending=5
+[2026-07-17 14:20:22] util=44% (12/27 GPUs) free_idle=4 pending=9
+[2026-07-17 14:21:13] util=62% (17/27 GPUs) free_idle=4 pending=9
+[2026-07-17 14:29:45] util=44% (12/27 GPUs) free_idle=4 pending=13
+[2026-07-17 14:41:55] util=55% (15/27 GPUs) free_idle=4 pending=17
+[2026-07-17 14:54:05] util=48% (13/27 GPUs) free_idle=2 pending=17
+[2026-07-17 15:06:15] util=70% (17/24 GPUs) free_idle=2 pending=19
+[2026-07-17 15:18:24] util=75% (18/24 GPUs) free_idle=2 pending=21
+[2026-07-17 15:30:32] util=36% (11/30 GPUs) free_idle=8 pending=22
+[2026-07-17 15:42:41] util=40% (12/30 GPUs) free_idle=6 pending=25
+[2026-07-17 15:54:49] util=46% (14/30 GPUs) free_idle=6 pending=26
+[2026-07-17 16:06:57] util=53% (16/30 GPUs) free_idle=7 pending=26
+[2026-07-17 16:19:07] util=63% (19/30 GPUs) free_idle=6 pending=26
+[2026-07-17 16:31:16] util=46% (14/30 GPUs) free_idle=6 pending=27
+[2026-07-17 16:43:25] util=40% (12/30 GPUs) free_idle=6 pending=26
+[2026-07-17 16:55:33] util=50% (15/30 GPUs) free_idle=6 pending=30
+[2026-07-17 17:07:42] util=40% (12/30 GPUs) free_idle=7 pending=30
+[2026-07-17 17:19:50] util=65% (21/32 GPUs) free_idle=6 pending=28
+[2026-07-17 17:32:00] util=77% (21/27 GPUs) free_idle=2 pending=32
+[2026-07-17 17:44:11] util=48% (13/27 GPUs) free_idle=2 pending=35
+[2026-07-17 17:56:22] util=48% (13/27 GPUs) free_idle=3 pending=33
+[2026-07-17 18:08:31] util=51% (14/27 GPUs) free_idle=2 pending=36
+[2026-07-17 18:20:40] util=55% (15/27 GPUs) free_idle=2 pending=38
+[2026-07-17 18:32:49] util=63% (21/33 GPUs) free_idle=7 pending=35
+[2026-07-17 18:44:58] util=51% (17/33 GPUs) free_idle=6 pending=38
+[2026-07-17 18:57:09] util=51% (17/33 GPUs) free_idle=6 pending=39
+[2026-07-17 19:09:25] util=48% (16/33 GPUs) free_idle=7 pending=37
+[2026-07-17 19:21:38] util=54% (18/33 GPUs) free_idle=6 pending=39
+[2026-07-17 19:33:47] util=63% (21/33 GPUs) free_idle=6 pending=40
+[2026-07-17 19:45:57] util=60% (20/33 GPUs) free_idle=8 pending=45
+[2026-07-17 19:58:06] util=42% (14/33 GPUs) free_idle=7 pending=44
+[2026-07-17 20:10:15] util=48% (16/33 GPUs) free_idle=6 pending=44
+[2026-07-17 20:22:24] util=42% (14/33 GPUs) free_idle=8 pending=47
+[2026-07-17 20:34:33] util=74% (20/27 GPUs) free_idle=2 pending=47
+[2026-07-17 20:46:44] util=88% (24/27 GPUs) free_idle=2 pending=48
+[2026-07-17 20:58:53] util=48% (16/33 GPUs) free_idle=6 pending=48
+[2026-07-17 21:11:02] util=51% (17/33 GPUs) free_idle=6 pending=47
+[2026-07-17 21:23:11] util=48% (16/33 GPUs) free_idle=6 pending=48
+[2026-07-17 21:35:20] util=57% (19/33 GPUs) free_idle=7 pending=53
+[2026-07-17 21:47:29] util=63% (21/33 GPUs) free_idle=6 pending=51
+[2026-07-17 21:59:39] util=45% (15/33 GPUs) free_idle=6 pending=54
+[2026-07-17 22:11:48] util=48% (16/33 GPUs) free_idle=6 pending=55
+[2026-07-17 22:23:57] util=54% (18/33 GPUs) free_idle=6 pending=52
+[2026-07-17 22:36:07] util=63% (21/33 GPUs) free_idle=6 pending=54
+[2026-07-17 22:48:19] util=69% (23/33 GPUs) free_idle=6 pending=58
+[2026-07-17 23:00:28] util=51% (14/27 GPUs) free_idle=2 pending=57
+[2026-07-17 23:12:39] util=51% (17/33 GPUs) free_idle=6 pending=60
+[2026-07-17 23:24:48] util=42% (14/33 GPUs) free_idle=7 pending=61
+[2026-07-17 23:36:57] util=51% (17/33 GPUs) free_idle=6 pending=59
+[2026-07-17 23:49:07] util=66% (22/33 GPUs) free_idle=6 pending=63
+[2026-07-18 00:01:15] util=54% (18/33 GPUs) free_idle=8 pending=64
+[2026-07-18 00:13:24] util=45% (15/33 GPUs) free_idle=7 pending=61
+[2026-07-18 00:25:33] util=51% (17/33 GPUs) free_idle=6 pending=66
+[2026-07-18 00:37:42] util=54% (18/33 GPUs) free_idle=7 pending=66
+[2026-07-18 00:49:51] util=66% (22/33 GPUs) free_idle=6 pending=68
+[2026-07-18 01:01:59] util=51% (14/27 GPUs) free_idle=2 pending=69
+[2026-07-18 01:14:09] util=59% (16/27 GPUs) free_idle=2 pending=72
+[2026-07-18 01:26:18] util=59% (16/27 GPUs) free_idle=2 pending=71
+[2026-07-18 01:38:27] util=55% (15/27 GPUs) free_idle=2 pending=71
+[2026-07-18 01:50:36] util=81% (22/27 GPUs) free_idle=2 pending=73
+[2026-07-18 02:02:45] util=66% (18/27 GPUs) free_idle=2 pending=72
+[2026-07-18 02:14:54] util=51% (14/27 GPUs) free_idle=3 pending=79
+[2026-07-18 02:27:05] util=42% (14/33 GPUs) free_idle=7 pending=80
+[2026-07-19 04:01:58] util=48% (19/39 GPUs) free_idle=8 pending=118
+[2026-07-19 04:14:16] util=46% (18/39 GPUs) free_idle=8 pending=10
+[2026-07-19 04:26:31] util=43% (17/39 GPUs) free_idle=9 pending=12
+[2026-07-19 04:38:44] util=56% (22/39 GPUs) free_idle=8 pending=13
+[2026-07-19 04:50:59] util=66% (26/39 GPUs) free_idle=8 pending=15
+[2026-07-19 05:03:15] util=48% (19/39 GPUs) free_idle=9 pending=17
+[2026-07-19 05:15:28] util=46% (18/39 GPUs) free_idle=8 pending=17
+[2026-07-19 08:13:38] util=79% (31/39 GPUs) free_idle=0 pending=0
+[2026-07-19 10:08:10] util=64% (29/45 GPUs) free_idle=5 pending=5
+[2026-07-19 10:28:37] util=30% (12/39 GPUs) free_idle=21 pending=4
+[2026-07-19 11:22:32] util=62% (28/45 GPUs) free_idle=8 pending=3
+[2026-07-19 11:30:32] util=84% (38/45 GPUs) free_idle=0 pending=3
+[2026-07-19 11:40:43] util=82% (37/45 GPUs) free_idle=0 pending=3
+[2026-07-19 11:50:52] util=55% (25/45 GPUs) free_idle=16 pending=3
+[2026-07-19 12:04:01] util=55% (25/45 GPUs) free_idle=18 pending=1
+[2026-07-19 12:14:10] util=84% (38/45 GPUs) free_idle=0 pending=7
+[2026-07-19 12:25:16] util=82% (37/45 GPUs) free_idle=1 pending=7
+[2026-07-19 12:35:24] util=64% (29/45 GPUs) free_idle=8 pending=6
+[2026-07-19 12:45:38] util=55% (25/45 GPUs) free_idle=12 pending=5
+[2026-07-19 12:55:49] util=28% (13/45 GPUs) free_idle=20 pending=5
+[2026-07-19 13:06:06] util=24% (11/45 GPUs) free_idle=25 pending=3
+[2026-07-19 13:16:41] util=48% (22/45 GPUs) free_idle=20 pending=0
+[2026-07-19 13:26:49] util=64% (29/45 GPUs) free_idle=9 pending=1
+[2026-07-19 13:36:58] util=64% (29/45 GPUs) free_idle=2 pending=1
+[2026-07-19 13:48:09] util=42% (19/45 GPUs) free_idle=19 pending=1
+[2026-07-19 14:01:41] util=66% (30/45 GPUs) free_idle=5 pending=0
+[2026-07-19 14:11:51] util=73% (33/45 GPUs) free_idle=5 pending=0
+[2026-07-19 14:22:02] util=84% (38/45 GPUs) free_idle=2 pending=0
+[2026-07-19 14:32:13] util=84% (38/45 GPUs) free_idle=0 pending=1
+[2026-07-19 14:32:13] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.877 mean_util=87.02 mean_mem_fraction=0.704
+[2026-07-19 14:42:27] util=95% (43/45 GPUs) free_idle=0 pending=3
+[2026-07-19 14:42:27] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.879 mean_util=86.51 mean_mem_fraction=0.707
+[2026-07-19 14:49:11] util=93% (42/45 GPUs) free_idle=0 pending=3
+[2026-07-19 14:49:11] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.911 mean_util=89.56 mean_mem_fraction=0.709
+[2026-07-19 14:52:42] util=93% (42/45 GPUs) free_idle=0 pending=3
+[2026-07-19 14:52:42] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.902 mean_util=89.05 mean_mem_fraction=0.709
+[2026-07-19 15:02:54] util=91% (41/45 GPUs) free_idle=0 pending=2
+[2026-07-19 15:02:54] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.875 mean_util=87.05 mean_mem_fraction=0.713
+[2026-07-19 15:13:08] util=75% (34/45 GPUs) free_idle=1 pending=3
+[2026-07-19 15:13:08] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.868 mean_util=85.55 mean_mem_fraction=0.718
+[2026-07-19 15:23:22] util=86% (39/45 GPUs) free_idle=0 pending=3
+[2026-07-19 15:23:22] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.819 mean_util=79.54 mean_mem_fraction=0.705
+[2026-07-19 15:33:35] util=91% (41/45 GPUs) free_idle=1 pending=3
+[2026-07-19 15:33:35] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.883 mean_util=86.21 mean_mem_fraction=0.709
+[2026-07-19 15:43:48] util=91% (41/45 GPUs) free_idle=1 pending=2
+[2026-07-19 15:43:48] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.843 mean_util=76.16 mean_mem_fraction=0.625
+[2026-07-19 15:54:02] util=71% (32/45 GPUs) free_idle=1 pending=2
+[2026-07-19 15:54:02] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.851 mean_util=76.74 mean_mem_fraction=0.587
+[2026-07-19 16:04:19] util=60% (27/45 GPUs) free_idle=16 pending=0
+[2026-07-19 16:04:19] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.561 mean_util=55.20 mean_mem_fraction=0.485
+[2026-07-19 16:05:04] util=62% (28/45 GPUs) free_idle=15 pending=0
+[2026-07-19 16:05:04] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.551 mean_util=54.69 mean_mem_fraction=0.474
+[2026-07-19 16:12:35] util=68% (31/45 GPUs) free_idle=9 pending=0
+[2026-07-19 16:12:35] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.595 mean_util=57.72 mean_mem_fraction=0.446
+[2026-07-19 16:14:36] util=80% (36/45 GPUs) free_idle=4 pending=0
+[2026-07-19 16:14:36] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.649 mean_util=60.03 mean_mem_fraction=0.447
+[2026-07-19 16:24:49] util=46% (21/45 GPUs) free_idle=19 pending=1
+[2026-07-19 16:24:49] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.551 mean_util=54.09 mean_mem_fraction=0.431
+[2026-07-19 16:26:11] util=75% (34/45 GPUs) free_idle=9 pending=0
+[2026-07-19 16:26:11] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.529 mean_util=52.29 mean_mem_fraction=0.426
+[2026-07-19 16:28:45] util=73% (33/45 GPUs) free_idle=8 pending=0
+[2026-07-19 16:28:45] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.630 mean_util=56.85 mean_mem_fraction=0.433
+[2026-07-19 16:35:04] util=51% (23/45 GPUs) free_idle=16 pending=1
+[2026-07-19 16:35:04] rolling SUMMARY window=300s hosts=18 samples=475 active_fraction=0.651 mean_util=54.39 mean_mem_fraction=0.398
+[2026-07-19 16:39:37] util=64% (29/45 GPUs) free_idle=14 pending=0
+[2026-07-19 16:39:37] rolling SUMMARY window=300s hosts=18 samples=458 active_fraction=0.528 mean_util=48.69 mean_mem_fraction=0.430
+[2026-07-19 16:43:24] util=75% (34/45 GPUs) free_idle=9 pending=1
+[2026-07-19 16:43:24] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.610 mean_util=54.52 mean_mem_fraction=0.446
+[2026-07-19 16:45:10] util=80% (36/45 GPUs) free_idle=7 pending=0
+[2026-07-19 16:45:10] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.668 mean_util=58.83 mean_mem_fraction=0.484
+[2026-07-19 16:45:17] util=80% (36/45 GPUs) free_idle=7 pending=7
+[2026-07-19 16:45:17] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.670 mean_util=59.00 mean_mem_fraction=0.486
+[2026-07-19 16:55:39] util=95% (43/45 GPUs) free_idle=0 pending=5
+[2026-07-19 16:55:39] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.926 mean_util=79.96 mean_mem_fraction=0.589
+[2026-07-19 16:59:15] util=88% (40/45 GPUs) free_idle=3 pending=5
+[2026-07-19 16:59:15] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.898 mean_util=77.63 mean_mem_fraction=0.572
+[2026-07-19 17:02:48] util=84% (38/45 GPUs) free_idle=0 pending=4
+[2026-07-19 17:02:48] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.883 mean_util=75.79 mean_mem_fraction=0.576
+[2026-07-19 17:05:52] util=88% (40/45 GPUs) free_idle=1 pending=1
+[2026-07-19 17:05:52] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.845 mean_util=72.66 mean_mem_fraction=0.562
+[2026-07-19 17:16:06] util=65% (28/43 GPUs) free_idle=8 pending=1
+[2026-07-19 17:16:06] rolling SUMMARY window=300s hosts=19 samples=458 active_fraction=0.675 mean_util=61.80 mean_mem_fraction=0.544
+[2026-07-19 17:22:45] util=46% (21/45 GPUs) free_idle=19 pending=1
+[2026-07-19 17:22:45] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.509 mean_util=49.78 mean_mem_fraction=0.458
+[2026-07-19 17:25:21] util=40% (18/44 GPUs) free_idle=15 pending=1
+[2026-07-19 17:25:21] rolling SUMMARY window=300s hosts=18 samples=466 active_fraction=0.476 mean_util=46.85 mean_mem_fraction=0.432
+[2026-07-19 17:26:21] util=64% (29/45 GPUs) free_idle=14 pending=0
+[2026-07-19 17:26:21] rolling SUMMARY window=300s hosts=19 samples=467 active_fraction=0.482 mean_util=46.97 mean_mem_fraction=0.422
+[2026-07-19 17:27:37] util=80% (36/45 GPUs) free_idle=6 pending=0
+[2026-07-19 17:27:37] rolling SUMMARY window=300s hosts=19 samples=467 active_fraction=0.507 mean_util=49.53 mean_mem_fraction=0.430
+[2026-07-19 17:37:01] util=91% (41/45 GPUs) free_idle=0 pending=2
+[2026-07-19 17:37:01] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.900 mean_util=79.70 mean_mem_fraction=0.613
+[2026-07-19 17:47:16] util=75% (34/45 GPUs) free_idle=4 pending=0
+[2026-07-19 17:47:16] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.864 mean_util=76.69 mean_mem_fraction=0.611
+[2026-07-19 17:47:57] util=82% (37/45 GPUs) free_idle=4 pending=0
+[2026-07-19 17:47:57] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.834 mean_util=74.34 mean_mem_fraction=0.610
+[2026-07-19 17:57:30] util=80% (36/45 GPUs) free_idle=2 pending=3
+[2026-07-19 17:57:30] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.872 mean_util=76.86 mean_mem_fraction=0.569
+[2026-07-19 18:07:45] util=44% (20/45 GPUs) free_idle=21 pending=0
+[2026-07-19 18:07:45] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.517 mean_util=50.23 mean_mem_fraction=0.386
+[2026-07-19 18:07:27] util=44% (20/45 GPUs) free_idle=21 pending=0
+[2026-07-19 18:07:27] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.517 mean_util=50.23 mean_mem_fraction=0.386
+[2026-07-19 18:14:33] util=48% (22/45 GPUs) free_idle=21 pending=1
+[2026-07-19 18:14:33] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.506 mean_util=50.30 mean_mem_fraction=0.390
+[2026-07-19 18:17:59] util=64% (29/45 GPUs) free_idle=7 pending=0
+[2026-07-19 18:17:59] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.528 mean_util=52.34 mean_mem_fraction=0.435
+[2026-07-19 18:20:21] util=57% (26/45 GPUs) free_idle=8 pending=5
+[2026-07-19 18:20:21] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.574 mean_util=56.82 mean_mem_fraction=0.500
+[2026-07-19 18:28:14] util=57% (26/45 GPUs) free_idle=1 pending=6
+[2026-07-19 18:28:14] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.628 mean_util=61.51 mean_mem_fraction=0.537
+[2026-07-19 18:38:32] util=64% (25/39 GPUs) free_idle=0 pending=6
+[2026-07-19 18:38:32] rolling SUMMARY window=300s hosts=18 samples=446 active_fraction=0.623 mean_util=61.69 mean_mem_fraction=0.567
+[2026-07-19 18:48:50] util=77% (35/45 GPUs) free_idle=2 pending=0
+[2026-07-19 18:48:50] rolling SUMMARY window=300s hosts=18 samples=464 active_fraction=0.642 mean_util=63.23 mean_mem_fraction=0.546
+[2026-07-19 18:59:07] util=71% (32/45 GPUs) free_idle=1 pending=2
+[2026-07-19 18:59:07] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.774 mean_util=76.96 mean_mem_fraction=0.602
+[2026-07-19 19:09:24] util=80% (36/45 GPUs) free_idle=0 pending=2
+[2026-07-19 19:09:24] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.815 mean_util=81.02 mean_mem_fraction=0.633
+[2026-07-19 19:19:43] util=73% (33/45 GPUs) free_idle=2 pending=2
+[2026-07-19 19:19:43] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.834 mean_util=82.67 mean_mem_fraction=0.664
+[2026-07-19 19:26:00] util=68% (31/45 GPUs) free_idle=1 pending=3
+[2026-07-19 19:26:00] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.870 mean_util=85.53 mean_mem_fraction=0.653
+[2026-07-19 19:30:00] util=82% (37/45 GPUs) free_idle=0 pending=6
+[2026-07-19 19:30:00] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.817 mean_util=80.02 mean_mem_fraction=0.656
+[2026-07-19 19:40:16] util=75% (34/45 GPUs) free_idle=1 pending=7
+[2026-07-19 19:40:16] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.813 mean_util=80.62 mean_mem_fraction=0.648
+[2026-07-19 19:50:36] util=75% (34/45 GPUs) free_idle=1 pending=7
+[2026-07-19 19:50:36] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.789 mean_util=78.41 mean_mem_fraction=0.663
+[2026-07-19 20:00:54] util=73% (33/45 GPUs) free_idle=2 pending=7
+[2026-07-19 20:00:54] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.785 mean_util=77.82 mean_mem_fraction=0.671
+[2026-07-19 20:11:13] util=66% (30/45 GPUs) free_idle=2 pending=7
+[2026-07-19 20:11:13] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.743 mean_util=73.50 mean_mem_fraction=0.669
+[2026-07-19 20:21:31] util=68% (31/45 GPUs) free_idle=2 pending=5
+[2026-07-19 20:21:31] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.747 mean_util=74.36 mean_mem_fraction=0.669
+[2026-07-19 20:31:49] util=73% (33/45 GPUs) free_idle=0 pending=5
+[2026-07-19 20:31:49] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.794 mean_util=78.57 mean_mem_fraction=0.705
+[2026-07-19 20:42:09] util=77% (35/45 GPUs) free_idle=0 pending=3
+[2026-07-19 20:42:09] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.811 mean_util=80.62 mean_mem_fraction=0.696
+[2026-07-19 20:52:28] util=77% (35/45 GPUs) free_idle=0 pending=4
+[2026-07-19 20:52:28] rolling SUMMARY window=300s hosts=18 samples=461 active_fraction=0.852 mean_util=84.54 mean_mem_fraction=0.703
+[2026-07-19 21:02:48] util=84% (38/45 GPUs) free_idle=0 pending=5
+[2026-07-19 21:02:48] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.849 mean_util=84.71 mean_mem_fraction=0.708
+[2026-07-19 21:13:07] util=82% (37/45 GPUs) free_idle=1 pending=4
+[2026-07-19 21:13:07] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.832 mean_util=82.35 mean_mem_fraction=0.696
+[2026-07-19 21:23:26] util=82% (37/45 GPUs) free_idle=1 pending=5
+[2026-07-19 21:23:26] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.817 mean_util=81.48 mean_mem_fraction=0.696
+[2026-07-19 21:33:43] util=91% (41/45 GPUs) free_idle=1 pending=3
+[2026-07-19 21:33:43] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.848 mean_util=84.26 mean_mem_fraction=0.688
+[2026-07-19 21:44:02] util=91% (41/45 GPUs) free_idle=1 pending=4
+[2026-07-19 21:44:02] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.894 mean_util=88.72 mean_mem_fraction=0.696
+[2026-07-19 21:54:23] util=88% (40/45 GPUs) free_idle=1 pending=4
+[2026-07-19 21:54:23] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.866 mean_util=85.69 mean_mem_fraction=0.689
+[2026-07-19 22:04:42] util=86% (39/45 GPUs) free_idle=3 pending=1
+[2026-07-19 22:04:42] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.800 mean_util=79.46 mean_mem_fraction=0.654
+[2026-07-19 22:15:03] util=91% (41/45 GPUs) free_idle=0 pending=0
+[2026-07-19 22:15:03] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.864 mean_util=85.60 mean_mem_fraction=0.698
+[2026-07-19 22:25:23] util=91% (41/45 GPUs) free_idle=0 pending=0
+[2026-07-19 22:25:23] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.846 mean_util=83.90 mean_mem_fraction=0.704
+[2026-07-19 22:35:44] util=84% (38/45 GPUs) free_idle=0 pending=3
+[2026-07-19 22:35:44] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.811 mean_util=80.46 mean_mem_fraction=0.697
+[2026-07-19 22:46:04] util=94% (37/39 GPUs) free_idle=0 pending=3
+[2026-07-19 22:46:04] rolling SUMMARY window=300s hosts=18 samples=458 active_fraction=0.869 mean_util=86.08 mean_mem_fraction=0.713
+[2026-07-19 22:56:21] util=94% (37/39 GPUs) free_idle=0 pending=6
+[2026-07-19 22:56:21] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.868 mean_util=86.18 mean_mem_fraction=0.730
+[2026-07-19 23:06:40] util=68% (31/45 GPUs) free_idle=6 pending=8
+[2026-07-19 23:06:40] rolling SUMMARY window=300s hosts=18 samples=436 active_fraction=0.810 mean_util=80.48 mean_mem_fraction=0.694
+[2026-07-19 23:17:01] util=75% (34/45 GPUs) free_idle=0 pending=8
+[2026-07-19 23:17:01] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.772 mean_util=76.76 mean_mem_fraction=0.709
+[2026-07-19 23:27:17] util=88% (40/45 GPUs) free_idle=0 pending=6
+[2026-07-19 23:27:17] rolling SUMMARY window=300s hosts=18 samples=472 active_fraction=0.847 mean_util=82.85 mean_mem_fraction=0.705
+[2026-07-19 23:37:35] util=82% (37/45 GPUs) free_idle=1 pending=5
+[2026-07-19 23:37:35] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.811 mean_util=79.96 mean_mem_fraction=0.701
+[2026-07-19 23:47:51] util=75% (34/45 GPUs) free_idle=1 pending=5
+[2026-07-19 23:47:51] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.813 mean_util=79.84 mean_mem_fraction=0.743
+[2026-07-19 23:58:10] util=77% (35/45 GPUs) free_idle=3 pending=4
+[2026-07-19 23:58:10] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.768 mean_util=75.73 mean_mem_fraction=0.698
+[2026-07-20 00:08:28] util=84% (38/45 GPUs) free_idle=0 pending=3
+[2026-07-20 00:18:47] util=88% (40/45 GPUs) free_idle=0 pending=2
+[2026-07-20 00:18:47] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.902 mean_util=89.20 mean_mem_fraction=0.744
+[2026-07-20 00:29:05] util=71% (32/45 GPUs) free_idle=6 pending=2
+[2026-07-20 00:29:05] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.896 mean_util=88.78 mean_mem_fraction=0.733
+[2026-07-20 00:39:25] util=88% (40/45 GPUs) free_idle=0 pending=3
+[2026-07-20 00:39:25] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.960 mean_util=95.24 mean_mem_fraction=0.749
+[2026-07-20 00:49:47] util=93% (42/45 GPUs) free_idle=1 pending=2
+[2026-07-20 00:49:47] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.915 mean_util=90.71 mean_mem_fraction=0.708
+[2026-07-20 01:00:12] util=91% (41/45 GPUs) free_idle=0 pending=1
+[2026-07-20 01:00:12] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.960 mean_util=95.48 mean_mem_fraction=0.746
+[2026-07-20 01:10:46] util=77% (35/45 GPUs) free_idle=0 pending=2
+[2026-07-20 01:10:46] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.834 mean_util=82.16 mean_mem_fraction=0.682
+[2026-07-20 01:21:05] util=84% (38/45 GPUs) free_idle=6 pending=0
+[2026-07-20 01:21:05] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.812 mean_util=80.32 mean_mem_fraction=0.637
+[2026-07-20 01:31:39] util=97% (44/45 GPUs) free_idle=0 pending=4
+[2026-07-20 01:31:39] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.955 mean_util=94.65 mean_mem_fraction=0.724
+[2026-07-20 01:41:57] util=97% (44/45 GPUs) free_idle=0 pending=4
+[2026-07-20 01:41:57] rolling SUMMARY window=300s hosts=18 samples=466 active_fraction=0.918 mean_util=91.30 mean_mem_fraction=0.740
+[2026-07-20 01:52:16] util=91% (41/45 GPUs) free_idle=0 pending=4
+[2026-07-20 01:52:16] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.940 mean_util=93.35 mean_mem_fraction=0.765
+[2026-07-20 02:02:33] util=93% (42/45 GPUs) free_idle=2 pending=4
+[2026-07-20 02:02:33] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.853 mean_util=84.74 mean_mem_fraction=0.701
+[2026-07-20 02:12:52] util=93% (42/45 GPUs) free_idle=2 pending=4
+[2026-07-20 02:12:52] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.925 mean_util=92.04 mean_mem_fraction=0.721
+[2026-07-20 02:23:10] util=80% (36/45 GPUs) free_idle=5 pending=3
+[2026-07-20 02:23:10] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.828 mean_util=82.24 mean_mem_fraction=0.685
+[2026-07-20 02:33:28] util=95% (43/45 GPUs) free_idle=2 pending=3
+[2026-07-20 02:33:28] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.945 mean_util=93.12 mean_mem_fraction=0.735
+[2026-07-20 02:43:46] util=91% (41/45 GPUs) free_idle=2 pending=3
+[2026-07-20 02:43:46] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.921 mean_util=91.57 mean_mem_fraction=0.717
+[2026-07-20 02:54:05] util=95% (43/45 GPUs) free_idle=2 pending=3
+[2026-07-20 02:54:05] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.957 mean_util=94.73 mean_mem_fraction=0.735
+[2026-07-20 03:04:23] util=82% (37/45 GPUs) free_idle=8 pending=0
+[2026-07-20 03:04:23] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.791 mean_util=78.76 mean_mem_fraction=0.632
+[2026-07-20 03:14:56] util=66% (26/39 GPUs) free_idle=7 pending=5
+[2026-07-20 03:14:56] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.741 mean_util=73.55 mean_mem_fraction=0.641
+[2026-07-20 03:25:17] util=71% (28/39 GPUs) free_idle=4 pending=5
+[2026-07-20 03:25:17] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.807 mean_util=79.28 mean_mem_fraction=0.666
+[2026-07-20 03:35:35] util=71% (28/39 GPUs) free_idle=4 pending=5
+[2026-07-20 03:35:35] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.727 mean_util=71.66 mean_mem_fraction=0.654
+[2026-07-20 03:45:52] util=74% (29/39 GPUs) free_idle=4 pending=4
+[2026-07-20 03:45:52] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.771 mean_util=76.85 mean_mem_fraction=0.685
+[2026-07-20 03:56:10] util=66% (26/39 GPUs) free_idle=2 pending=2
+[2026-07-20 03:56:10] rolling SUMMARY window=300s hosts=16 samples=407 active_fraction=0.700 mean_util=69.40 mean_mem_fraction=0.659
+[2026-07-20 04:06:29] util=71% (28/39 GPUs) free_idle=2 pending=5
+[2026-07-20 04:06:29] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.707 mean_util=70.13 mean_mem_fraction=0.731
+[2026-07-20 04:16:48] util=79% (31/39 GPUs) free_idle=2 pending=5
+[2026-07-20 04:16:48] rolling SUMMARY window=300s hosts=16 samples=418 active_fraction=0.792 mean_util=78.91 mean_mem_fraction=0.732
+[2026-07-20 04:27:05] util=79% (31/39 GPUs) free_idle=2 pending=6
+[2026-07-20 04:27:05] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.871 mean_util=86.88 mean_mem_fraction=0.732
+[2026-07-20 04:37:23] util=71% (28/39 GPUs) free_idle=2 pending=8
+[2026-07-20 04:37:23] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.815 mean_util=80.15 mean_mem_fraction=0.720
+[2026-07-20 04:47:44] util=66% (26/39 GPUs) free_idle=2 pending=6
+[2026-07-20 04:47:44] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.761 mean_util=74.87 mean_mem_fraction=0.699
+[2026-07-20 04:58:02] util=64% (25/39 GPUs) free_idle=2 pending=6
+[2026-07-20 04:58:02] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.680 mean_util=67.68 mean_mem_fraction=0.724
+[2026-07-20 05:08:19] util=61% (24/39 GPUs) free_idle=3 pending=6
+[2026-07-20 05:08:19] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.671 mean_util=65.83 mean_mem_fraction=0.716
+[2026-07-20 05:18:36] util=69% (27/39 GPUs) free_idle=0 pending=6
+[2026-07-20 05:18:36] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.720 mean_util=71.48 mean_mem_fraction=0.765
+[2026-07-20 05:28:53] util=76% (30/39 GPUs) free_idle=0 pending=5
+[2026-07-20 05:28:53] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.795 mean_util=79.14 mean_mem_fraction=0.765
+[2026-07-20 05:39:10] util=84% (33/39 GPUs) free_idle=0 pending=4
+[2026-07-20 05:39:10] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.859 mean_util=85.35 mean_mem_fraction=0.761
+[2026-07-20 05:49:27] util=92% (36/39 GPUs) free_idle=0 pending=5
+[2026-07-20 05:49:27] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.917 mean_util=91.31 mean_mem_fraction=0.765
+[2026-07-20 05:59:43] util=84% (38/45 GPUs) free_idle=6 pending=5
+[2026-07-20 05:59:43] rolling SUMMARY window=300s hosts=18 samples=428 active_fraction=0.907 mean_util=90.13 mean_mem_fraction=0.733
+[2026-07-20 06:10:03] util=93% (42/45 GPUs) free_idle=0 pending=2
+[2026-07-20 06:10:03] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.842 mean_util=83.84 mean_mem_fraction=0.750
+[2026-07-20 06:20:20] util=93% (42/45 GPUs) free_idle=0 pending=3
+[2026-07-20 06:20:20] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.877 mean_util=86.98 mean_mem_fraction=0.776
+[2026-07-20 06:30:38] util=66% (30/45 GPUs) free_idle=9 pending=1
+[2026-07-20 06:30:38] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.664 mean_util=66.16 mean_mem_fraction=0.613
+[2026-07-20 06:40:55] util=91% (41/45 GPUs) free_idle=1 pending=1
+[2026-07-20 06:40:55] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.902 mean_util=89.86 mean_mem_fraction=0.759
+[2026-07-20 06:51:13] util=71% (32/45 GPUs) free_idle=10 pending=0
+[2026-07-20 06:51:13] rolling SUMMARY window=300s hosts=18 samples=475 active_fraction=0.733 mean_util=73.06 mean_mem_fraction=0.601
+[2026-07-20 07:01:37] util=95% (43/45 GPUs) free_idle=2 pending=7
+[2026-07-20 07:01:37] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.939 mean_util=91.62 mean_mem_fraction=0.664
+[2026-07-20 07:11:54] util=93% (42/45 GPUs) free_idle=3 pending=2
+[2026-07-20 07:11:54] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.921 mean_util=87.94 mean_mem_fraction=0.681
+[2026-07-20 07:22:11] util=88% (40/45 GPUs) free_idle=5 pending=4
+[2026-07-20 07:22:11] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.930 mean_util=88.31 mean_mem_fraction=0.672
+[2026-07-20 07:32:28] util=95% (43/45 GPUs) free_idle=2 pending=2
+[2026-07-20 07:32:28] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.947 mean_util=93.15 mean_mem_fraction=0.736
+[2026-07-20 07:42:52] util=95% (43/45 GPUs) free_idle=2 pending=4
+[2026-07-20 07:42:52] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.926 mean_util=91.03 mean_mem_fraction=0.737
+[2026-07-20 07:53:08] util=95% (43/45 GPUs) free_idle=2 pending=8
+[2026-07-20 07:53:08] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.926 mean_util=89.56 mean_mem_fraction=0.723
+[2026-07-20 08:03:28] util=87% (34/39 GPUs) free_idle=3 pending=5
+[2026-07-20 08:03:28] rolling SUMMARY window=300s hosts=16 samples=416 active_fraction=0.877 mean_util=87.40 mean_mem_fraction=0.705
+[2026-07-20 08:14:20] util=94% (37/39 GPUs) free_idle=2 pending=3
+[2026-07-20 08:14:20] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.907 mean_util=90.12 mean_mem_fraction=0.736
+[2026-07-20 08:24:36] util=94% (37/39 GPUs) free_idle=2 pending=3
+[2026-07-20 08:24:36] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.905 mean_util=90.13 mean_mem_fraction=0.736
+[2026-07-20 08:34:52] util=94% (37/39 GPUs) free_idle=2 pending=4
+[2026-07-20 08:34:52] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.893 mean_util=89.13 mean_mem_fraction=0.737
+[2026-07-20 08:45:08] util=92% (36/39 GPUs) free_idle=3 pending=1
+[2026-07-20 08:45:08] rolling SUMMARY window=300s hosts=16 samples=411 active_fraction=0.827 mean_util=80.90 mean_mem_fraction=0.686
+[2026-07-20 08:55:25] util=71% (28/39 GPUs) free_idle=7 pending=0
+[2026-07-20 08:55:25] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.828 mean_util=80.37 mean_mem_fraction=0.675
+[2026-07-20 09:05:44] util=66% (26/39 GPUs) free_idle=13 pending=3
+[2026-07-20 09:05:44] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.746 mean_util=74.26 mean_mem_fraction=0.576
+[2026-07-20 09:16:02] util=87% (34/39 GPUs) free_idle=5 pending=8
+[2026-07-20 09:16:02] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.871 mean_util=86.59 mean_mem_fraction=0.679
+[2026-07-20 09:26:18] util=94% (37/39 GPUs) free_idle=2 pending=6
+[2026-07-20 09:26:18] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.932 mean_util=92.12 mean_mem_fraction=0.711
+[2026-07-20 09:36:35] util=94% (37/39 GPUs) free_idle=2 pending=6
+[2026-07-20 09:36:35] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.929 mean_util=90.43 mean_mem_fraction=0.713
+[2026-07-20 09:46:51] util=94% (37/39 GPUs) free_idle=2 pending=5
+[2026-07-20 09:46:51] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.929 mean_util=89.77 mean_mem_fraction=0.693
+[2026-07-20 09:57:09] util=82% (37/45 GPUs) free_idle=8 pending=8
+[2026-07-20 09:57:09] rolling SUMMARY window=300s hosts=18 samples=434 active_fraction=0.882 mean_util=86.41 mean_mem_fraction=0.681
+[2026-07-20 10:07:27] util=95% (43/45 GPUs) free_idle=2 pending=5
+[2026-07-20 10:07:27] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.930 mean_util=90.30 mean_mem_fraction=0.727
+[2026-07-20 10:17:47] util=90% (30/33 GPUs) free_idle=3 pending=7
+[2026-07-20 10:17:47] rolling SUMMARY window=300s hosts=18 samples=395 active_fraction=0.924 mean_util=90.64 mean_mem_fraction=0.731
+[2026-07-20 10:28:10] util=81% (27/33 GPUs) free_idle=6 pending=4
+[2026-07-20 10:28:10] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.889 mean_util=86.52 mean_mem_fraction=0.648
+[2026-07-20 10:38:30] util=93% (31/33 GPUs) free_idle=2 pending=3
+[2026-07-20 10:38:30] rolling SUMMARY window=300s hosts=14 samples=347 active_fraction=0.914 mean_util=89.80 mean_mem_fraction=0.654
+[2026-07-20 10:48:49] util=90% (30/33 GPUs) free_idle=2 pending=4
+[2026-07-20 10:48:49] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.934 mean_util=91.83 mean_mem_fraction=0.685
+[2026-07-20 10:59:09] util=100% (33/33 GPUs) free_idle=0 pending=3
+[2026-07-20 10:59:09] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.983 mean_util=97.03 mean_mem_fraction=0.755
+[2026-07-20 11:09:28] util=87% (29/33 GPUs) free_idle=4 pending=5
+[2026-07-20 11:09:28] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.883 mean_util=88.01 mean_mem_fraction=0.687
+[2026-07-20 11:20:19] util=100% (33/33 GPUs) free_idle=0 pending=5
+[2026-07-20 11:20:19] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.989 mean_util=96.25 mean_mem_fraction=0.752
+[2026-07-20 11:30:39] util=93% (31/33 GPUs) free_idle=2 pending=5
+[2026-07-20 11:30:39] rolling SUMMARY window=300s hosts=14 samples=352 active_fraction=0.989 mean_util=96.63 mean_mem_fraction=0.738
+[2026-07-20 11:40:59] util=96% (32/33 GPUs) free_idle=1 pending=3
+[2026-07-20 11:40:59] rolling SUMMARY window=300s hosts=14 samples=350 active_fraction=0.974 mean_util=96.17 mean_mem_fraction=0.761
+[2026-07-20 11:51:20] util=64% (29/45 GPUs) free_idle=10 pending=3
+[2026-07-20 11:51:20] rolling SUMMARY window=300s hosts=18 samples=410 active_fraction=0.732 mean_util=71.41 mean_mem_fraction=0.653
+[2026-07-20 12:01:41] util=94% (37/39 GPUs) free_idle=2 pending=7
+[2026-07-20 12:01:41] rolling SUMMARY window=300s hosts=16 samples=411 active_fraction=0.888 mean_util=87.80 mean_mem_fraction=0.734
+[2026-07-20 12:12:09] util=94% (37/39 GPUs) free_idle=2 pending=3
+[2026-07-20 12:12:09] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.900 mean_util=89.71 mean_mem_fraction=0.718
+[2026-07-20 12:23:20] util=87% (34/39 GPUs) free_idle=5 pending=0
+[2026-07-20 12:23:20] rolling SUMMARY window=300s hosts=16 samples=416 active_fraction=0.897 mean_util=89.49 mean_mem_fraction=0.734
+[2026-07-20 12:33:54] util=58% (23/39 GPUs) free_idle=16 pending=0
+[2026-07-20 12:33:54] rolling SUMMARY window=300s hosts=16 samples=411 active_fraction=0.613 mean_util=60.59 mean_mem_fraction=0.469
+[2026-07-20 12:44:11] util=58% (23/39 GPUs) free_idle=16 pending=2
+[2026-07-20 12:44:11] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.607 mean_util=60.67 mean_mem_fraction=0.464
+[2026-07-20 12:54:28] util=69% (27/39 GPUs) free_idle=12 pending=1
+[2026-07-20 12:54:28] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.707 mean_util=70.15 mean_mem_fraction=0.547
+[2026-07-20 13:04:49] util=64% (25/39 GPUs) free_idle=14 pending=0
+[2026-07-20 13:04:49] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.608 mean_util=60.68 mean_mem_fraction=0.484
+[2026-07-20 13:15:15] util=74% (29/39 GPUs) free_idle=10 pending=4
+[2026-07-20 13:15:15] rolling SUMMARY window=300s hosts=16 samples=407 active_fraction=0.686 mean_util=67.72 mean_mem_fraction=0.556
+[2026-07-20 13:25:38] util=87% (34/39 GPUs) free_idle=5 pending=3
+[2026-07-20 13:25:38] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.893 mean_util=88.26 mean_mem_fraction=0.698
+[2026-07-20 13:35:57] util=89% (35/39 GPUs) free_idle=4 pending=4
+[2026-07-20 13:35:57] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.901 mean_util=89.43 mean_mem_fraction=0.713
+[2026-07-20 13:46:14] util=82% (32/39 GPUs) free_idle=6 pending=0
+[2026-07-20 13:46:14] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.817 mean_util=79.79 mean_mem_fraction=0.644
+[2026-07-20 13:56:32] util=76% (30/39 GPUs) free_idle=9 pending=1
+[2026-07-20 13:56:32] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.776 mean_util=76.32 mean_mem_fraction=0.598
+[2026-07-20 14:06:54] util=82% (32/39 GPUs) free_idle=6 pending=0
+[2026-07-20 14:06:54] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.850 mean_util=84.51 mean_mem_fraction=0.672
+[2026-07-20 14:17:17] util=69% (27/39 GPUs) free_idle=10 pending=0
+[2026-07-20 14:17:17] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.749 mean_util=74.67 mean_mem_fraction=0.607
+[2026-07-20 14:27:37] util=58% (23/39 GPUs) free_idle=16 pending=0
+[2026-07-20 14:27:37] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.559 mean_util=55.77 mean_mem_fraction=0.442
+[2026-07-20 14:38:04] util=58% (23/39 GPUs) free_idle=16 pending=0
+[2026-07-20 14:38:04] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.559 mean_util=55.42 mean_mem_fraction=0.442
+[2026-07-20 14:48:42] util=84% (33/39 GPUs) free_idle=6 pending=2
+[2026-07-20 14:48:42] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.802 mean_util=80.03 mean_mem_fraction=0.651
+[2026-07-20 14:59:01] util=53% (21/39 GPUs) free_idle=18 pending=0
+[2026-07-20 14:59:01] rolling SUMMARY window=300s hosts=16 samples=420 active_fraction=0.724 mean_util=72.11 mean_mem_fraction=0.577
+[2026-07-20 15:09:23] util=76% (30/39 GPUs) free_idle=9 pending=0
+[2026-07-20 15:09:23] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.778 mean_util=77.05 mean_mem_fraction=0.598
+[2026-07-20 15:19:40] util=66% (26/39 GPUs) free_idle=13 pending=1
+[2026-07-20 15:19:40] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.649 mean_util=63.74 mean_mem_fraction=0.516
+[2026-07-20 15:30:03] util=51% (23/45 GPUs) free_idle=22 pending=1
+[2026-07-20 15:30:03] rolling SUMMARY window=300s hosts=18 samples=474 active_fraction=0.591 mean_util=58.98 mean_mem_fraction=0.468
+[2026-07-20 15:40:24] util=57% (26/45 GPUs) free_idle=18 pending=0
+[2026-07-20 15:40:24] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.606 mean_util=60.00 mean_mem_fraction=0.472
+[2026-07-20 15:50:46] util=57% (26/45 GPUs) free_idle=19 pending=0
+[2026-07-20 15:50:46] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.564 mean_util=56.31 mean_mem_fraction=0.449
+[2026-07-20 16:01:06] util=37% (17/45 GPUs) free_idle=26 pending=5
+[2026-07-20 16:01:06] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.429 mean_util=42.01 mean_mem_fraction=0.350
+[2026-07-20 16:11:27] util=64% (29/45 GPUs) free_idle=16 pending=0
+[2026-07-20 16:11:27] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.660 mean_util=64.84 mean_mem_fraction=0.503
+[2026-07-20 16:21:49] util=80% (36/45 GPUs) free_idle=9 pending=1
+[2026-07-20 16:21:49] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.802 mean_util=79.97 mean_mem_fraction=0.640
+[2026-07-20 16:32:10] util=64% (29/45 GPUs) free_idle=16 pending=0
+[2026-07-20 16:32:10] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.685 mean_util=68.18 mean_mem_fraction=0.563
+[2026-07-20 16:42:33] util=44% (20/45 GPUs) free_idle=25 pending=0
+[2026-07-20 16:42:33] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.451 mean_util=44.91 mean_mem_fraction=0.366
+[2026-07-20 16:52:59] util=53% (24/45 GPUs) free_idle=21 pending=2
+[2026-07-20 16:52:59] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.512 mean_util=51.06 mean_mem_fraction=0.414
+[2026-07-20 17:03:18] util=57% (26/45 GPUs) free_idle=18 pending=0
+[2026-07-20 17:03:18] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.615 mean_util=61.27 mean_mem_fraction=0.484
+[2026-07-20 17:13:37] util=60% (27/45 GPUs) free_idle=18 pending=0
+[2026-07-20 17:13:37] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.621 mean_util=61.91 mean_mem_fraction=0.488
+[2026-07-20 17:23:54] util=48% (19/39 GPUs) free_idle=19 pending=4
+[2026-07-20 17:23:54] rolling SUMMARY window=300s hosts=18 samples=464 active_fraction=0.500 mean_util=49.63 mean_mem_fraction=0.410
+[2026-07-20 17:34:10] util=74% (29/39 GPUs) free_idle=10 pending=1
+[2026-07-20 17:34:10] rolling SUMMARY window=300s hosts=16 samples=416 active_fraction=0.709 mean_util=70.21 mean_mem_fraction=0.579
+[2026-07-20 17:44:28] util=68% (31/45 GPUs) free_idle=13 pending=0
+[2026-07-20 17:44:28] rolling SUMMARY window=300s hosts=18 samples=447 active_fraction=0.709 mean_util=70.12 mean_mem_fraction=0.575
+[2026-07-20 17:54:47] util=77% (35/45 GPUs) free_idle=10 pending=0
+[2026-07-20 17:54:47] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.738 mean_util=73.34 mean_mem_fraction=0.604
+[2026-07-20 18:05:04] util=64% (29/45 GPUs) free_idle=14 pending=0
+[2026-07-20 18:05:04] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.675 mean_util=64.90 mean_mem_fraction=0.550
+[2026-07-20 18:15:25] util=53% (24/45 GPUs) free_idle=21 pending=1
+[2026-07-20 18:15:25] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.530 mean_util=49.50 mean_mem_fraction=0.377
+[2026-07-20 18:26:01] util=48% (22/45 GPUs) free_idle=23 pending=0
+[2026-07-20 18:26:01] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.502 mean_util=50.13 mean_mem_fraction=0.409
+[2026-07-20 18:36:24] util=55% (25/45 GPUs) free_idle=20 pending=1
+[2026-07-20 18:36:24] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.530 mean_util=52.88 mean_mem_fraction=0.428
+[2026-07-20 18:46:40] util=40% (18/45 GPUs) free_idle=26 pending=0
+[2026-07-20 18:46:40] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.401 mean_util=39.24 mean_mem_fraction=0.311
+[2026-07-20 18:57:01] util=60% (27/45 GPUs) free_idle=18 pending=1
+[2026-07-20 18:57:01] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.615 mean_util=60.57 mean_mem_fraction=0.473
+[2026-07-20 19:07:17] util=66% (30/45 GPUs) free_idle=15 pending=0
+[2026-07-20 19:07:17] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.683 mean_util=68.15 mean_mem_fraction=0.538
+[2026-07-20 19:17:35] util=51% (23/45 GPUs) free_idle=22 pending=0
+[2026-07-20 19:17:35] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.483 mean_util=48.11 mean_mem_fraction=0.388
+[2026-07-20 19:27:52] util=48% (22/45 GPUs) free_idle=23 pending=2
+[2026-07-20 19:27:52] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.462 mean_util=45.96 mean_mem_fraction=0.373
+[2026-07-20 19:38:10] util=42% (19/45 GPUs) free_idle=26 pending=0
+[2026-07-20 19:38:10] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.446 mean_util=44.34 mean_mem_fraction=0.336
+[2026-07-20 19:48:31] util=66% (26/39 GPUs) free_idle=12 pending=0
+[2026-07-20 19:48:31] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.705 mean_util=70.33 mean_mem_fraction=0.548
+[2026-07-20 19:58:51] util=51% (23/45 GPUs) free_idle=22 pending=0
+[2026-07-20 19:58:51] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.489 mean_util=48.89 mean_mem_fraction=0.395
+[2026-07-20 20:09:13] util=42% (19/45 GPUs) free_idle=25 pending=0
+[2026-07-20 20:09:13] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.423 mean_util=41.41 mean_mem_fraction=0.330
+[2026-07-20 20:19:35] util=57% (26/45 GPUs) free_idle=19 pending=1
+[2026-07-20 20:19:35] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.594 mean_util=58.57 mean_mem_fraction=0.463
+[2026-07-20 20:29:51] util=66% (30/45 GPUs) free_idle=15 pending=0
+[2026-07-20 20:29:51] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.660 mean_util=65.61 mean_mem_fraction=0.527
+[2026-07-20 20:40:11] util=60% (27/45 GPUs) free_idle=18 pending=0
+[2026-07-20 20:40:11] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.596 mean_util=59.31 mean_mem_fraction=0.473
+[2026-07-20 20:50:28] util=42% (19/45 GPUs) free_idle=26 pending=2
+[2026-07-20 20:50:28] rolling SUMMARY window=300s hosts=18 samples=476 active_fraction=0.538 mean_util=53.68 mean_mem_fraction=0.434
+[2026-07-20 21:00:48] util=37% (17/45 GPUs) free_idle=28 pending=1
+[2026-07-20 21:00:48] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.438 mean_util=43.78 mean_mem_fraction=0.344
+[2026-07-20 21:11:06] util=51% (23/45 GPUs) free_idle=22 pending=0
+[2026-07-20 21:11:06] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.506 mean_util=50.29 mean_mem_fraction=0.393
+[2026-07-20 21:21:28] util=66% (30/45 GPUs) free_idle=13 pending=0
+[2026-07-20 21:21:28] rolling SUMMARY window=300s hosts=18 samples=472 active_fraction=0.701 mean_util=70.01 mean_mem_fraction=0.562
+[2026-07-20 21:31:45] util=44% (20/45 GPUs) free_idle=25 pending=1
+[2026-07-20 21:31:45] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.426 mean_util=42.37 mean_mem_fraction=0.336
+[2026-07-20 21:42:02] util=46% (21/45 GPUs) free_idle=24 pending=0
+[2026-07-20 21:42:02] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.489 mean_util=48.71 mean_mem_fraction=0.400
+[2026-07-20 21:52:19] util=60% (27/45 GPUs) free_idle=18 pending=0
+[2026-07-20 21:52:19] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.605 mean_util=60.31 mean_mem_fraction=0.507
+[2026-07-20 22:02:38] util=43% (17/39 GPUs) free_idle=22 pending=0
+[2026-07-20 22:02:38] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.412 mean_util=40.95 mean_mem_fraction=0.338
+[2026-07-20 22:12:59] util=61% (24/39 GPUs) free_idle=15 pending=0
+[2026-07-20 22:12:59] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.580 mean_util=57.78 mean_mem_fraction=0.487
+[2026-07-20 22:23:15] util=61% (24/39 GPUs) free_idle=15 pending=0
+[2026-07-20 22:23:15] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.576 mean_util=57.34 mean_mem_fraction=0.487
+[2026-07-20 22:33:31] util=46% (18/39 GPUs) free_idle=21 pending=0
+[2026-07-20 22:33:31] rolling SUMMARY window=300s hosts=16 samples=408 active_fraction=0.471 mean_util=46.92 mean_mem_fraction=0.398
+[2026-07-20 22:43:47] util=38% (15/39 GPUs) free_idle=24 pending=0
+[2026-07-20 22:43:47] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.363 mean_util=36.24 mean_mem_fraction=0.306
+[2026-07-20 22:54:01] util=41% (16/39 GPUs) free_idle=23 pending=1
+[2026-07-20 22:54:01] rolling SUMMARY window=300s hosts=16 samples=414 active_fraction=0.389 mean_util=38.46 mean_mem_fraction=0.339
+[2026-07-20 23:04:19] util=64% (25/39 GPUs) free_idle=14 pending=0
+[2026-07-20 23:04:19] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.566 mean_util=50.02 mean_mem_fraction=0.449
+[2026-07-20 23:14:38] util=48% (19/39 GPUs) free_idle=20 pending=0
+[2026-07-20 23:14:38] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.615 mean_util=55.73 mean_mem_fraction=0.428
+[2026-07-20 23:25:38] util=33% (13/39 GPUs) free_idle=26 pending=0
+[2026-07-20 23:25:38] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.327 mean_util=32.25 mean_mem_fraction=0.279
+[2026-07-20 23:36:07] util=30% (12/39 GPUs) free_idle=27 pending=0
+[2026-07-20 23:36:07] rolling SUMMARY window=300s hosts=16 samples=411 active_fraction=0.307 mean_util=30.00 mean_mem_fraction=0.260
+[2026-07-20 23:46:22] util=30% (12/39 GPUs) free_idle=27 pending=0
+[2026-07-20 23:46:22] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.293 mean_util=29.16 mean_mem_fraction=0.250
+[2026-07-20 23:56:37] util=30% (12/39 GPUs) free_idle=27 pending=0
+[2026-07-20 23:56:37] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.290 mean_util=28.99 mean_mem_fraction=0.253
+[2026-07-21 00:06:55] util=17% (8/45 GPUs) free_idle=33 pending=0
+[2026-07-21 00:06:55] rolling SUMMARY window=300s hosts=18 samples=434 active_fraction=0.267 mean_util=23.91 mean_mem_fraction=0.209
+[2026-07-21 00:17:11] util=20% (9/45 GPUs) free_idle=35 pending=2
+[2026-07-21 00:17:11] rolling SUMMARY window=300s hosts=18 samples=465 active_fraction=0.254 mean_util=19.21 mean_mem_fraction=0.146
+[2026-07-21 00:27:53] util=20% (9/45 GPUs) free_idle=36 pending=0
+[2026-07-21 00:27:53] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.252 mean_util=23.03 mean_mem_fraction=0.176
+[2026-07-21 00:38:37] util=33% (15/45 GPUs) free_idle=30 pending=0
+[2026-07-21 00:38:37] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.321 mean_util=31.89 mean_mem_fraction=0.269
+[2026-07-21 00:48:55] util=8% (4/45 GPUs) free_idle=41 pending=0
+[2026-07-21 00:48:55] rolling SUMMARY window=300s hosts=18 samples=476 active_fraction=0.101 mean_util=9.76 mean_mem_fraction=0.076
+[2026-07-21 00:59:10] util=8% (4/45 GPUs) free_idle=41 pending=0
+[2026-07-21 00:59:10] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.087 mean_util=8.55 mean_mem_fraction=0.070
+[2026-07-21 01:09:24] util=8% (4/45 GPUs) free_idle=41 pending=0
+[2026-07-21 01:09:24] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.085 mean_util=8.50 mean_mem_fraction=0.068
+[2026-07-21 01:19:38] util=8% (4/45 GPUs) free_idle=41 pending=0
+[2026-07-21 01:19:38] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.085 mean_util=8.50 mean_mem_fraction=0.068
+[2026-07-21 01:29:51] util=8% (4/45 GPUs) free_idle=41 pending=0
+[2026-07-21 01:29:51] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.085 mean_util=8.51 mean_mem_fraction=0.069
+[2026-07-21 01:40:06] util=8% (4/45 GPUs) free_idle=41 pending=2
+[2026-07-21 01:40:06] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.080 mean_util=7.15 mean_mem_fraction=0.061
+[2026-07-21 01:50:24] util=20% (9/45 GPUs) free_idle=36 pending=0
+[2026-07-21 01:50:24] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.193 mean_util=18.36 mean_mem_fraction=0.150
+[2026-07-21 02:00:39] util=26% (12/45 GPUs) free_idle=33 pending=0
+[2026-07-21 02:00:39] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.253 mean_util=25.17 mean_mem_fraction=0.212
+[2026-07-21 02:10:52] util=20% (8/39 GPUs) free_idle=31 pending=0
+[2026-07-21 02:10:52] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.215 mean_util=21.04 mean_mem_fraction=0.184
+[2026-07-21 02:21:09] util=17% (7/39 GPUs) free_idle=32 pending=0
+[2026-07-21 02:21:09] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.176 mean_util=17.27 mean_mem_fraction=0.123
+[2026-07-21 02:26:21] util=17% (7/39 GPUs) free_idle=32 pending=0
+[2026-07-21 02:26:21] rolling SUMMARY window=300s hosts=16 samples=414 active_fraction=0.169 mean_util=16.88 mean_mem_fraction=0.121
+[2026-07-21 02:30:06] util=87% (34/39 GPUs) free_idle=5 pending=0
+[2026-07-21 02:30:06] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.495 mean_util=36.12 mean_mem_fraction=0.285
+[2026-07-21 02:31:26] util=89% (35/39 GPUs) free_idle=3 pending=4
+[2026-07-21 02:31:26] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.700 mean_util=49.23 mean_mem_fraction=0.386
+[2026-07-21 02:41:41] util=71% (32/45 GPUs) free_idle=13 pending=0
+[2026-07-21 02:41:41] rolling SUMMARY window=300s hosts=18 samples=439 active_fraction=0.804 mean_util=57.94 mean_mem_fraction=0.347
+[2026-07-21 02:52:36] util=15% (7/45 GPUs) free_idle=38 pending=0
+[2026-07-21 02:52:36] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.146 mean_util=14.42 mean_mem_fraction=0.117
+[2026-07-21 03:03:40] util=51% (23/45 GPUs) free_idle=22 pending=3
+[2026-07-21 03:03:40] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.325 mean_util=31.50 mean_mem_fraction=0.242
+[2026-07-21 03:14:03] util=95% (43/45 GPUs) free_idle=2 pending=9
+[2026-07-21 03:14:03] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.949 mean_util=94.37 mean_mem_fraction=0.719
+[2026-07-21 03:24:24] util=95% (43/45 GPUs) free_idle=2 pending=9
+[2026-07-21 03:24:24] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.953 mean_util=94.99 mean_mem_fraction=0.736
+[2026-07-21 03:34:43] util=91% (41/45 GPUs) free_idle=0 pending=8
+[2026-07-21 03:34:43] rolling SUMMARY window=300s hosts=18 samples=474 active_fraction=0.947 mean_util=94.05 mean_mem_fraction=0.765
+[2026-07-21 03:45:05] util=100% (45/45 GPUs) free_idle=0 pending=9
+[2026-07-21 03:45:05] rolling SUMMARY window=300s hosts=18 samples=469 active_fraction=0.991 mean_util=97.72 mean_mem_fraction=0.793
+[2026-07-21 03:55:28] util=93% (42/45 GPUs) free_idle=0 pending=7
+[2026-07-21 03:55:28] rolling SUMMARY window=300s hosts=18 samples=473 active_fraction=0.884 mean_util=87.48 mean_mem_fraction=0.769
+[2026-07-21 04:05:48] util=93% (42/45 GPUs) free_idle=0 pending=7
+[2026-07-21 04:05:48] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.930 mean_util=91.78 mean_mem_fraction=0.795
+[2026-07-21 04:16:11] util=93% (42/45 GPUs) free_idle=2 pending=7
+[2026-07-21 04:16:11] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.955 mean_util=95.29 mean_mem_fraction=0.811
+[2026-07-21 04:26:30] util=91% (41/45 GPUs) free_idle=0 pending=6
+[2026-07-21 04:26:30] rolling SUMMARY window=300s hosts=18 samples=467 active_fraction=0.938 mean_util=86.95 mean_mem_fraction=0.713
+[2026-07-21 04:36:50] util=82% (37/45 GPUs) free_idle=4 pending=6
+[2026-07-21 04:36:50] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.921 mean_util=85.15 mean_mem_fraction=0.698
+[2026-07-21 04:47:09] util=100% (39/39 GPUs) free_idle=0 pending=6
+[2026-07-21 04:47:09] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.961 mean_util=94.96 mean_mem_fraction=0.776
+[2026-07-21 04:58:07] util=89% (35/39 GPUs) free_idle=0 pending=7
+[2026-07-21 04:58:07] rolling SUMMARY window=300s hosts=16 samples=410 active_fraction=0.985 mean_util=96.58 mean_mem_fraction=0.781
+[2026-07-21 05:08:27] util=100% (39/39 GPUs) free_idle=0 pending=10
+[2026-07-21 05:08:27] rolling SUMMARY window=300s hosts=16 samples=416 active_fraction=0.986 mean_util=96.88 mean_mem_fraction=0.782
+[2026-07-21 05:18:48] util=97% (38/39 GPUs) free_idle=0 pending=10
+[2026-07-21 05:18:48] rolling SUMMARY window=300s hosts=16 samples=413 active_fraction=0.988 mean_util=96.92 mean_mem_fraction=0.777
+[2026-07-21 05:29:59] util=88% (40/45 GPUs) free_idle=1 pending=6
+[2026-07-21 05:29:59] rolling SUMMARY window=300s hosts=18 samples=470 active_fraction=0.911 mean_util=89.65 mean_mem_fraction=0.779
+[2026-07-21 05:32:28] util=88% (40/45 GPUs) free_idle=4 pending=4
+[2026-07-21 05:32:28] rolling SUMMARY window=300s hosts=18 samples=471 active_fraction=0.913 mean_util=89.91 mean_mem_fraction=0.782

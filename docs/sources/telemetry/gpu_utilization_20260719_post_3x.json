@@ -1,0 +1,2602 @@
+{
+  "active_threshold_percent": 5.0,
+  "captured_at": "2026-07-20T00:11:38-05:00",
+  "hosts": {
+    "host01": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.8511962890625,
+      "mean_utilization_percent": 99.73333333333333,
+      "observations": [
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.537",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.554",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.562",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.626",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.636",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.645",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.702",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.718",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.726",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.781",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.793",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.800",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.855",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.870",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.878",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.933",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.942",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.950",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.005",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.015",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.023",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:29.082",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:29.092",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:29.100",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:59.175",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:59.187",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:59.195",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:30.564",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:30.574",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:30.585",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 18256,
+        "prefix_sha256": "b0fcbb1173476ccbfa1ed65e7147b9d354ef845d720f732df1102ca85664a762"
+      }
+    },
+    "host03": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.8511962890625,
+      "mean_utilization_percent": 99.6,
+      "observations": [
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.565",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.576",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:58.588",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.645",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.656",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:28.665",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.722",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.736",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:58.743",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.799",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.810",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:28.821",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.876",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.890",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:58.897",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.954",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.967",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:28.974",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.032",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.042",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:59.050",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:33.416",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:33.426",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:33.435",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:03.490",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:03.500",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:03.509",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:33.579",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:33.589",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:33.597",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 18463,
+        "prefix_sha256": "ddeab43cd7aed9cac5a13b01748ae8f0a797f3bb314cd823a4d96d69ee877cae"
+      }
+    },
+    "host04": {
+      "active_fraction": 0,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7765706380208334,
+      "mean_utilization_percent": 0.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:06:46.387",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:06:46.393",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:06:46.393",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:07:16.442",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:07:16.445",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:07:16.447",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:07:46.497",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:07:46.501",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:07:46.502",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:08:16.560",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:08:16.563",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:08:16.564",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:08:46.627",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:08:46.630",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:08:46.631",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:09:16.679",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:09:16.682",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:09:16.683",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:09:46.733",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:09:46.736",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:09:46.737",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:10:17.074",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:10:17.077",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:10:17.078",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:10:47.125",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:10:47.127",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:10:47.129",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:11:17.177",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:11:17.179",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7762451171875,
+          "timestamp": "2026-07-20T00:11:17.180",
+          "utilization_percent": 0.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 174871,
+        "prefix_sha256": "5ae4fe8103eeed2c1e39e8efc56a6c569e428934fc06ceb2c9a73ba64aeba7d9"
+      }
+    },
+    "host06": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7775472005208334,
+      "mean_utilization_percent": 96.76666666666667,
+      "observations": [
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:06:46.496",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:06:46.501",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:06:46.502",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:07:16.553",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:07:16.557",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:07:16.558",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:07:46.611",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:07:46.615",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:07:46.619",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:08:16.672",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:08:16.676",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:08:16.677",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:08:46.728",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:08:46.732",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:08:46.733",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:09:16.915",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:09:16.919",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:09:16.920",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:09:46.972",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:09:46.976",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:09:46.977",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:10:17.055",
+          "utilization_percent": 15.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:10:17.058",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:10:17.059",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:10:47.108",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:10:47.112",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:10:47.113",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7772216796875,
+          "timestamp": "2026-07-20T00:11:17.170",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:11:17.175",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7777099609375,
+          "timestamp": "2026-07-20T00:11:17.176",
+          "utilization_percent": 99.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 177197,
+        "prefix_sha256": "351640bf05a6cf22d3e8466cb4b544c148a9f7ab8cc38788c6ca4d7118619517"
+      }
+    },
+    "host07": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7697672526041667,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:06:46.399",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.402",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.410",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:07:16.459",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.463",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.465",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:07:46.536",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.543",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.544",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:08:16.596",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.599",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.599",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:08:46.648",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.653",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.654",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:09:16.729",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:16.733",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:16.734",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:09:46.783",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:46.786",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:46.787",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:10:17.058",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.062",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.063",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:10:47.113",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.116",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.117",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:11:17.167",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.175",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.176",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 176118,
+        "prefix_sha256": "32f233d1e8a17e5e23a3d2149fae1f7895baa2a28e6972557934ba173a5a9568"
+      }
+    },
+    "host08": {
+      "active_fraction": 0.06666666666666667,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7694417317708334,
+      "mean_utilization_percent": 6.666666666666667,
+      "observations": [
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:06:58.397",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:06:58.401",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:06:58.402",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:07:28.451",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:07:28.455",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:07:28.456",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:07:58.507",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:07:58.511",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:07:58.511",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:08:28.559",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:08:28.563",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:08:28.564",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:08:58.613",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:08:58.616",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:08:58.617",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:09:28.665",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:09:28.668",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:09:28.669",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:09:58.721",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:09:58.726",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:09:58.729",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:10:33.414",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:10:33.417",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:10:33.418",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:11:03.466",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:11:03.471",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:11:03.473",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7700927734375,
+          "timestamp": "2026-07-20T00:11:33.522",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:11:33.525",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7691162109375,
+          "timestamp": "2026-07-20T00:11:33.526",
+          "utilization_percent": 0.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 174750,
+        "prefix_sha256": "ed50aa9959d4d09f62b9ab5393f9cf693f9bfcba6d04829aef9c8ae65138e90d"
+      }
+    },
+    "host09": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.8511962890625,
+      "mean_utilization_percent": 99.33333333333333,
+      "observations": [
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:46.845",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:46.856",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:46.864",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:16.929",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:16.942",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:16.949",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:47.088",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:47.098",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:47.109",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:17.167",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:17.178",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:17.185",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:47.241",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:47.252",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:47.260",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:17.315",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:17.326",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:17.336",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:47.403",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:47.414",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:47.420",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:17.478",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:17.496",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:17.503",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:47.563",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:47.580",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:47.587",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:17.646",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:17.663",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:17.672",
+          "utilization_percent": 97.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 173297,
+        "prefix_sha256": "31ac43a6eb6dd67616195dfb12b6980d060dea07dc6223b0e85829255fe6745b"
+      }
+    },
+    "host10": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7700927734375,
+      "mean_utilization_percent": 99.96666666666667,
+      "observations": [
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:06:58.427",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:58.432",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:58.433",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:28.483",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:28.487",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:28.487",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:58.536",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:58.540",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:58.540",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:28.603",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:28.607",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:28.611",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:58.662",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:58.666",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:58.667",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:28.733",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:28.737",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:28.738",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:58.789",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:58.792",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:58.793",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:28.853",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:28.857",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:28.860",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:58.922",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:58.927",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:58.928",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:11:30.587",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:30.591",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:30.592",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 175654,
+        "prefix_sha256": "1eed0021f723c445c4a6454f6386dabdc03aa7d4190fc97828d0012a9e54fd7f"
+      }
+    },
+    "host11": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7700927734375,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:06:46.375",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.379",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.380",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:16.433",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.437",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.438",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:46.485",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.491",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.492",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:16.540",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.544",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.545",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:46.594",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.597",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.598",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:16.646",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:16.657",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:16.658",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:46.709",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:46.713",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:46.714",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:17.063",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.068",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.069",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:47.121",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.123",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.124",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:11:17.173",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.177",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.178",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 606721,
+        "prefix_sha256": "0dddb6a06f0c12f17a18ece3e4e637c0d0e053c43c61b87f4d0529e0896adcf8"
+      }
+    },
+    "host12": {
+      "active_fraction": 0.6666666666666666,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.5872477213541667,
+      "mean_utilization_percent": 66.46666666666667,
+      "observations": [
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:06:47.083",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:06:47.094",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:06:47.104",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:07:17.159",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:07:17.167",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:07:17.175",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:07:47.230",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:07:47.243",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:07:47.255",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:08:17.320",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:08:17.329",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:08:17.337",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:08:47.396",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:08:47.410",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:08:47.417",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:09:17.470",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:09:17.480",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:09:17.488",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:09:47.542",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:09:47.553",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:09:47.560",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:10:17.613",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:10:17.623",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:10:17.630",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:10:47.696",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:10:47.706",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:10:47.713",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:11:17.772",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7411376953125,
+          "timestamp": "2026-07-20T00:11:17.783",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.2794677734375,
+          "timestamp": "2026-07-20T00:11:17.790",
+          "utilization_percent": 0.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 174674,
+        "prefix_sha256": "3735eacbdd5a93c14deabfbdff5a11013203c27e95fbbce109a3038f59aeb802"
+      }
+    },
+    "host13": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7699300130208334,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:06:47.038",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:47.043",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:47.046",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:07:17.115",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:17.119",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:17.120",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:07:47.173",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:47.178",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:47.179",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:08:17.233",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:17.238",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:17.239",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:08:47.289",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:47.294",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:47.296",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:09:17.351",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:17.355",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:17.356",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:09:47.408",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:47.413",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:47.414",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:10:17.463",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.467",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.469",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:10:47.519",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.522",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.523",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7705810546875,
+          "timestamp": "2026-07-20T00:11:17.592",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.596",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.597",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 615980,
+        "prefix_sha256": "46d66182a002cdfa265ca3c0a44b90ccda02186f53b46ba92371a130537d5e45"
+      }
+    },
+    "host14": {
+      "active_fraction": 0.8333333333333334,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.5843994140625,
+      "mean_utilization_percent": 81.7,
+      "observations": [
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:06:46.929",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:06:46.938",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:06:46.944",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:17.004",
+          "utilization_percent": 88.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:17.015",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:17.020",
+          "utilization_percent": 90.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:47.101",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:47.119",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:47.134",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:17.191",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:17.207",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:17.214",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:47.268",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:47.276",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:47.286",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:17.342",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:17.351",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:17.362",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:47.417",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:47.428",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:47.437",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:17.490",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:17.499",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:17.515",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:47.569",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:47.579",
+          "utilization_percent": 0.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:47.586",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:11:17.646",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:11:17.656",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:11:17.663",
+          "utilization_percent": 99.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 172150,
+        "prefix_sha256": "fe31f29694514abfb33dc79679937a65aac68d2f93b1851f79b7a6ad30b23f4d"
+      }
+    },
+    "host15": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7700927734375,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:06:58.397",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:58.399",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:58.400",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:28.447",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:28.450",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:28.451",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:58.503",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:58.507",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:58.509",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:28.559",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:28.565",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:28.566",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:58.615",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:58.619",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:58.620",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:28.667",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:28.671",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:28.675",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:58.724",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:58.727",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:58.729",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:33.416",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:33.419",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:33.420",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:11:03.472",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:03.475",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:03.476",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:11:33.647",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:33.651",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:33.651",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 590628,
+        "prefix_sha256": "9abff841fd3fc199d14f279ae78bcd3a3bba750edcf4f2868c95b4ced90580f9"
+      }
+    },
+    "host17": {
+      "active_fraction": 1,
+      "gpus_observed": 3,
+      "mean_memory_fraction": 0.7700927734375,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:06:46.447",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.451",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:06:46.452",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:16.502",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.507",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:16.507",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:07:46.559",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.563",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:07:46.565",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:16.616",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.621",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:16.622",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:08:46.678",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.682",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:08:46.683",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:17.137",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:17.142",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:17.142",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:09:47.200",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:47.205",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:09:47.205",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:17.342",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.346",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:17.347",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:10:47.407",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.412",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:10:47.413",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7710693359375,
+          "timestamp": "2026-07-20T00:11:17.465",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.470",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.7696044921875,
+          "timestamp": "2026-07-20T00:11:17.470",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 30,
+      "source": {
+        "prefix_bytes": 603372,
+        "prefix_sha256": "ccd4c195f89f3b39d569d543033738053e3aa14cc0e9620ac2c31b6037ab608c"
+      }
+    },
+    "host19": {
+      "active_fraction": 1,
+      "gpus_observed": 2,
+      "mean_memory_fraction": 0.4289042288404713,
+      "mean_utilization_percent": 100.0,
+      "observations": [
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:06:46.076",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:06:46.081",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:07:16.124",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:07:16.129",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:07:46.170",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:07:46.176",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:08:16.217",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:08:16.222",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:08:46.265",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:08:46.269",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:09:16.325",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:09:16.330",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:09:46.372",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:09:46.378",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:10:17.060",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:10:17.065",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:10:47.109",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:10:47.114",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:11:17.156",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.4289042288404713,
+          "timestamp": "2026-07-20T00:11:17.160",
+          "utilization_percent": 100.0
+        }
+      ],
+      "samples": 20,
+      "source": {
+        "prefix_bytes": 343055,
+        "prefix_sha256": "00b00da680b5dabe92fd29e8932e91f4784b71f4ff3e98a52866606569a7b81e"
+      }
+    },
+    "host20": {
+      "active_fraction": 1,
+      "gpus_observed": 1,
+      "mean_memory_fraction": 0.5843994140625,
+      "mean_utilization_percent": 92.1,
+      "observations": [
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:06:49.285",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:19.316",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:07:49.431",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:19.464",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:08:49.490",
+          "utilization_percent": 34.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:19.516",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:09:49.547",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:19.576",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:10:49.603",
+          "utilization_percent": 99.0
+        },
+        {
+          "memory_fraction": 0.5843994140625,
+          "timestamp": "2026-07-20T00:11:19.631",
+          "utilization_percent": 99.0
+        }
+      ],
+      "samples": 10,
+      "source": {
+        "prefix_bytes": 37381,
+        "prefix_sha256": "a582993f06defb06df10a007f01bdf28b31d4eb31e973bcc09b39dbac9ebe970"
+      }
+    },
+    "host21": {
+      "active_fraction": 1,
+      "gpus_observed": 1,
+      "mean_memory_fraction": 0.8511962890625,
+      "mean_utilization_percent": 99.4,
+      "observations": [
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:47.660",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:17.694",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:47.724",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:17.752",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:47.779",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:17.807",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:47.835",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:17.863",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:47.897",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:17.925",
+          "utilization_percent": 98.0
+        }
+      ],
+      "samples": 10,
+      "source": {
+        "prefix_bytes": 38477,
+        "prefix_sha256": "a8f1ca4e792a42f2f20c9f7c9e52538a87eaecc9c76159592faa91f1a1629355"
+      }
+    },
+    "host22": {
+      "active_fraction": 1,
+      "gpus_observed": 1,
+      "mean_memory_fraction": 0.8511962890625,
+      "mean_utilization_percent": 98.8,
+      "observations": [
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:06:45.713",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:15.747",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:07:45.779",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:15.809",
+          "utilization_percent": 98.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:08:45.840",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:15.868",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:09:46.218",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:16.251",
+          "utilization_percent": 97.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:10:46.283",
+          "utilization_percent": 100.0
+        },
+        {
+          "memory_fraction": 0.8511962890625,
+          "timestamp": "2026-07-20T00:11:16.325",
+          "utilization_percent": 98.0
+        }
+      ],
+      "samples": 10,
+      "source": {
+        "prefix_bytes": 38453,
+        "prefix_sha256": "2e620bdfb56aab25c199bf159cdf28397d433e3f214916043a3eab472a0a84b0"
+      }
+    }
+  },
+  "kind": "gpu_telemetry_window",
+  "project": "VSAO",
+  "schema_version": 2,
+  "summary": {
+    "active_fraction": 0.8446808510638298,
+    "gpus_observed": 47,
+    "hosts": 18,
+    "mean_memory_fraction": 0.74789770737752,
+    "mean_utilization_percent": 83.85106382978724,
+    "samples": 470
+  },
+  "window_seconds": 300
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "project": "VSAO",
+  "captured_at": "2026-07-19T14:50:21-05:00",
+  "rolling_window_seconds": 300,
+  "allocated_gpu_nodes": 18,
+  "allocated_gpus": 47,
+  "rolling": {
+    "hosts": 18,
+    "samples": 464,
+    "active_threshold_percent": 5.0,
+    "active_fraction": 0.918,
+    "mean_utilization_percent": 90.28,
+    "mean_memory_fraction": 0.707
+  },
+  "instantaneous_a100_class_probe": {
+    "hosts": 17,
+    "gpus": 45,
+    "working": 39,
+    "free_unassigned": 0,
+    "reserved_between_bursts": 6
+  },
+  "interpretation": "The rolling measurement includes 45 A100-class GPUs and both H100 GPUs. The instantaneous probe excludes H100 and classifies memory-resident scorer or synchronized trainer pauses separately from free GPUs."
+}
