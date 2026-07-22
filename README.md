@@ -107,6 +107,14 @@ python3 infra/python/plot_compute_usage.py \
   --output-dir out/compute --tag forcing-laws
 ```
 
+## Status and contributing
+
+Fleetcraft is a work in progress. The infrastructure is still evolving, and I
+am actively working to make it better, more generalizable, and more usable
+beyond the systems it grew up on. Feel free to contribute: issues,
+corrections, hardened scripts, new skills, and ports to other schedulers are
+all welcome.
+
 ## Provenance and honesty
 
 Fleetcraft is evidence-first. Measured claims point to preserved records, estimates are labeled as estimates, and completion requires canonical payloads rather than optimistic markers. The library is field-tested, but it remains a work in progress toward better useful utilization across changing workloads and systems.
