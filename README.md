@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License MIT"> <img src="https://img.shields.io/badge/status-field--tested-brightgreen.svg" alt="status: field-tested"> <img src="https://img.shields.io/badge/systems-Slurm%20%7C%20A100%20%7C%20H100%20%7C%20GH200%20%7C%20GB200-555555.svg" alt="systems: Slurm | A100 | H100 | GH200 | GB200">
 </p>
 
-Fleetcraft is an evidence-backed operating library for GPU video training, inference, evaluation, and asynchronous post-training on shared Slurm systems. It turns lessons from production projects into reusable queue workers, telemetry, scheduler templates, analysis utilities, and task-focused operating guides. For the narrative behind the design, read the companion post, [Fleetcraft: GPU Infrastructure Notes from Three Video-Generation Projects](https://shreshthsaini.github.io/blogs/gpu-infra-for-video-gen.html).
+Fleetcraft is an evidence-backed operating library for GPU video training, inference, evaluation, and asynchronous post-training on shared Slurm systems. It turns lessons from production projects into reusable queue workers, telemetry, scheduler templates, analysis utilities, and task-focused operating guides. For the narrative behind the design, read the companion post, [Fleetcraft: GPU Infrastructure Notes from Video Generation Projects](https://shreshthsaini.github.io/blogs/gpu-infra-for-video-gen.html).
 
 > [!IMPORTANT]
 > **Fleetcraft is a work in progress.** The infrastructure is evolving, and I am actively working to make it better, more generalizable, and more usable. Use it, break it, and contribute back: the shared goal is properly utilized infrastructure with no downtime and no wasted allocated compute.
@@ -82,6 +82,7 @@ Read `AGENTS.md`, route the task through its table, and follow the selected skil
 | `replenish_fleet.sh` | Schedules bounded fleet renewal lanes | `PLAYBOOK_BALANCE_OK=1 bin/replenish_fleet.sh` |
 | `slurm_snapshot.sh` | Summarizes jobs, limits, and optional GPU state | `bin/slurm_snapshot.sh --gpu` |
 | `worker_loop.sh` | Drains the durable outer task spool | `bin/worker_loop.sh` |
+| `allsmi_view.sh` | Live all-smi view across every node of your running jobs (handles Slurm discovery and host-key pitfalls) | `bin/allsmi_view.sh -i 2` |
 
 Every shell utility supports `-h` or `--help`. Inspect its header before use.
 
@@ -121,13 +122,14 @@ For live interactive monitoring during operations, [all-smi](https://github.com/
 
 ## Roadmap
 
-- [ ] Generalize defaults beyond TACC so the templates run unmodified on more Slurm sites
-- [ ] Live estimated-MFU tracking inside the telemetry summary, not only post hoc
-- [ ] An end-to-end example project: enqueue, generate, score, summarize, plot
-- [ ] First-class all-smi integration for live fleet views next to the archival CSVs
-- [ ] Preemption and spot-style recovery drills for the spool workers
-- [ ] Shellcheck and pytest CI on every script
-- [ ] Ports of the worker loop to PBS and other schedulers
+- [x] Initial release: task-routed skills, queue workers, telemetry, Slurm templates, and the evidence docs (July 2026)
+- [x] Companion blog post with measured fleet-utilization traces and estimated MFU analysis (July 2026)
+- [x] Anonymized telemetry archive with byte-reproducible figures
+- [x] all-smi live-monitoring recipe for Slurm allocations
+- [ ] End-to-end example project: enqueue, generate, score, summarize, plot
+- [ ] Live estimated-MFU tracking inside the telemetry summary
+- [ ] Generalized defaults and worker ports beyond TACC and Slurm
+- [ ] Preemption-recovery drills and CI across the scripts
 
 ## Acknowledgments
 

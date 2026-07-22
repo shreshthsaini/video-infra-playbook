@@ -57,8 +57,28 @@ description: Load when instrumenting GPU jobs, interpreting utilization and memo
 - Symptom: utilization swings from zero to 100 percent. Cause: normal load, denoise, decode, encode, or write phases. Fix: optimize time-averaged useful throughput. [FL G16]
 - Symptom: a summary misses two GPUs. Cause: not every active queue or host was enumerated. Fix: state both allocated nodes and physical GPUs, then validate host coverage. [VSAO report-vsao.md, Telemetry]
 
+## Live fleet views with all-smi
+
+[all-smi](https://github.com/lablup/all-smi) (Lablup, Apache-2.0) gives a live
+nvidia-smi-style view across many nodes at once. It complements, and does not
+replace, the durable CSV logging above.
+
+Setup caveats learned in production:
+
+1. all-smi does not discover your Slurm allocation. Build the node list
+   yourself from the scheduler: `squeue -u $USER -h -t R -o %N | xargs -n1
+   scontrol show hostnames | sort -u`, then pass it as
+   `--ssh user@node1,user@node2,...`. `bin/allsmi_view.sh` wraps exactly this.
+2. Clusters recycle node names. A recycled name comes back with a different
+   SSH host key, and all-smi's default strict host-key checking silently
+   drops that node from the view; the symptom reads as missing GPUs, not as
+   an error. On a trusted intra-cluster fabric run with
+   `--ssh-strict-host-key no`.
+3. Set a per-node connect timeout (`--ssh-timeout-secs 8`) so one dead or
+   slow node cannot stall the whole view.
+
 ## Pointers
 
 - Related skills: `gpu-utilization-batching.md`, `slurm-fleets-and-spools.md`, `provenance-and-repro.md`.
-- Scripts: `bin/gpu_telemetry.sh`, `bin/slurm_snapshot.sh`, `infra/python/gpu_telemetry_summary.py`, `infra/python/plot_compute_usage.py`.
+- Scripts: `bin/allsmi_view.sh`, `bin/gpu_telemetry.sh`, `bin/slurm_snapshot.sh`, `infra/python/gpu_telemetry_summary.py`, `infra/python/plot_compute_usage.py`.
 - Compendium theme: 8.
